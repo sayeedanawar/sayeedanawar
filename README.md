@@ -11,6 +11,7 @@
   <a href="mailto:sayeedanawarr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/sayeedanawar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
   <img src="https://img.shields.io/badge/Location-Kolkata%2C%20India-blue?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
+  <img src="https://komarev.com/ghpvc/?username=sayeedanawar&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
 </p>
 
 ---
@@ -19,11 +20,11 @@
 
 ## 📌 Executive Summary
 
-Results-driven **Java Backend Developer & System Engineer** with ~5 years of enterprise experience designing, architecting, and optimizing scalable distributed applications, microservices, and high-throughput data processing pipelines. 
+Results-driven **Java Backend Developer & System Engineer** with ~5 years of enterprise experience designing, architecting, and optimizing scalable distributed applications, microservices, and high-throughput data processing pipelines.
 
 - 💼 **Current Role:** System Engineer at **Tata Consultancy Services (TCS)** *(ex-**Accenture**)*
 - ⚡ **Core Specialties:** Enterprise Java (11/17/21), Spring Boot, Microservices Architecture, REST APIs, Complex SQL Query Optimization & Zero-Downtime Database Migrations.
-- 🚀 **Performance & Scale:** Spearheading asynchronous batch processing (`@Async`, Spring Batch), multithreading, caching, and low-latency API refactoring.
+- 🚀 **Performance & Concurrency:** Spearheading asynchronous batch processing (`@Async`, Spring Batch), multithreading, caching, and low-latency API refactoring.
 - 🤖 **Enterprise AI Integration:** Architecting backend integrations with LLM APIs, prompt engineering workflows, and **Model Context Protocol (MCP)** tool bindings.
 - 🎓 **Education:** B.Tech in Computer Science & Engineering — *Aliah University, Kolkata*
 
@@ -48,6 +49,18 @@ Results-driven **Java Backend Developer & System Engineer** with ~5 years of ent
 
 ---
 
+## ⚙️ Engineering Philosophy & Core Pillars
+
+<div align="center">
+
+| 🚀 High-Throughput & Async | 🗄️ Database & Performance | 🛡️ Reliability & Security | 🤖 Modern AI / MCP Tooling |
+| :--- | :--- | :--- | :--- |
+| Converting blocking endpoints to non-blocking `@Async` and batch processing pipelines for ultra-low latency. | Designing normalized schemas, tuning indexes & joins, and executing zero-downtime schema migrations (Flyway). | Comprehensive test-driven coverage with JUnit 5 & Mockito; robust Spring Security role-based access. | Embedding Model Context Protocol (MCP) servers & LLM endpoints into enterprise microservice workflows. |
+
+</div>
+
+---
+
 ## 💼 Professional Experience & Key Impact
 
 ### 🏢 **Tata Consultancy Services (TCS)** — *Associate / System Engineer*
@@ -63,7 +76,7 @@ Results-driven **Java Backend Developer & System Engineer** with ~5 years of ent
 ### 🏢 **Accenture** — *Application Developer / Java Developer*
 *October 2021 – May 2025 | India*
 - **Enterprise Backend Engineering:** Developed and maintained mission-critical Java backend components and RESTful microservices using **Spring Boot**, **Spring Security**, and **JPA/Hibernate**.
-- **API Security & Governance:** Enforced robust role-based authentication and authorization protocols across internal enterprise endpoints to ensure enterprise compliance.
+- **API Security & Governance:** Enforced robust role-based authentication and authorization protocols across internal enterprise endpoints to ensure strict compliance.
 - **Persistence & Transaction Management:** Structured normalized relational schemas, fine-tuned complex queries, and managed transactional integrity across high-volume data layers.
 
 ---
@@ -72,26 +85,11 @@ Results-driven **Java Backend Developer & System Engineer** with ~5 years of ent
 
 ### ⚡ **Network Operations & Field Monitoring System**
 *Enterprise Telemetry & Operations Processing Platform*
-- **Tech Stack:** `Java` • `Spring Boot` `Spring Batch` • `PostgreSQL` • `Flyway` • `JUnit 5` • `Mockito` • `LLM APIs`
+- **Tech Stack:** `Java` • `Spring Boot` • `Spring Batch` • `PostgreSQL` • `Flyway` • `JUnit 5` • `Mockito` • `LLM APIs`
 - **Impact & Highlights:**
   - Designed resilient real-time ingestion pipelines processing telemetry data from smart meters and relay units.
   - Converted synchronous blocking operations into non-blocking `@Async` event pipelines, dramatically improving system throughput.
   - Integrated AI-driven automated incident log summarization, streamlining root-cause diagnosis for field engineers.
-
----
-
-## 📊 Live GitHub Analytics
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sayeedanawar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="Sayeed's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayeedanawar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-  <br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sayeedanawar&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
-
-</div>
 
 ---
 
