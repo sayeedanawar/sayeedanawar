@@ -3,7 +3,7 @@
 # Hi there, I'm Sayeed Anawar 👋
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=560&lines=Java+Backend+Developer+%26+System+Engineer;Spring+Boot+%26+Microservices+Architect;High-Throughput+APIs+%26+SQL+Optimization;Enterprise+AI+%26+MCP+Workflow+Integrator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=620&lines=Senior+GenAI+%2F+Agentic+AI+%26+Backend+Engineer;LangGraph+%26+Model+Context+Protocol+(MCP)+Architect;Zero-Copy+OLAP+(DuckDB+%2B+S3+Parquet)+Pipelines;Enterprise+Java+%26+Spring+Boot+Microservices" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -20,76 +20,76 @@
 
 ## 📌 Executive Summary
 
-Results-driven **Java Backend Developer & System Engineer** with ~5 years of enterprise experience designing, architecting, and optimizing scalable distributed applications, microservices, and high-throughput data processing pipelines.
+**Senior GenAI / Agentic AI & Backend Engineer** with 5 years of enterprise experience building resilient distributed backends and production-grade agentic AI systems. 
 
-- 💼 **Current Role:** System Engineer at **Tata Consultancy Services (TCS)** *(ex-**Accenture**)*
-- ⚡ **Core Specialties:** Enterprise Java (11/17/21), Spring Boot, Microservices Architecture, REST APIs, Complex SQL Query Optimization & Zero-Downtime Database Migrations.
-- 🚀 **Performance & Concurrency:** Spearheading asynchronous batch processing (`@Async`, Spring Batch), multithreading, caching, and low-latency API refactoring.
-- 🤖 **Enterprise AI Integration:** Architecting backend integrations with LLM APIs, prompt engineering workflows, and **Model Context Protocol (MCP)** tool bindings.
-- 🎓 **Education:** B.Tech in Computer Science & Engineering — *Aliah University, Kolkata*
+- 💼 **Current Role:** Senior AI & Backend Engineer at **Tata Consultancy Services (TCS)** *(ex-**Accenture**)*
+- 🤖 **Agentic AI & Orchestration:** Production multi-tool agent engines via **LangGraph**, **Model Context Protocol (MCP)**, AWS Bedrock, deterministic Pydantic v2 schemas, and self-healing execution loops.
+- ⚡ **Zero-Copy OLAP & Data Lakehouse:** Embedded analytics with **DuckDB (`httpfs`)** querying partitioned S3 Parquet snapshots with predicate pushdowns, AST-level SQL safety guardrails, and sub-100ms latencies.
+- 🚀 **Enterprise Microservices:** High-throughput **Java (8/11/17)** and **Spring Boot** microservices, distributed resilience patterns (Resilience4j), and high-volume batch processing.
+- 🎓 **Education & Certifications:** B.Tech in CSE (Aliah University) • AWS Certified Developer – Associate • AWS Certified Generative AI Developer – Professional (In Progress)
 
 ---
 
 ## 🛠️ Technical Competencies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,mysql,hibernate,docker,git,maven,gradle,idea,postman,linux" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=python,java,spring,postgres,aws,docker,git,maven,idea,postman,linux" alt="Tech Stack Icons" />
 </div>
 
 <br/>
 
-| Domain | Technologies & Methodologies |
+| Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Core Languages & Frameworks** | `Java (11/17/21)` `Spring Boot` `Spring MVC` `Spring Batch` `Spring Security` `Microservices` `RESTful APIs` |
-| **Database & Persistence** | `SQL` `PostgreSQL` `MySQL` `JPA / Hibernate` `Indexing & Query Optimization` `Flyway` `Liquibase` |
-| **Concurrency & System Design** | `Multithreading` `Asynchronous Processing (@Async)` `Distributed Systems` `Event-Driven Architecture` `Caching Strategies` |
-| **Testing & Quality** | `JUnit 5` `Mockito` `Integration Testing` `Code Coverage & Static Analysis` |
-| **DevOps & Tooling** | `Git` `Docker` `Maven` `Gradle` `CI/CD Pipelines` `Postman` `IntelliJ IDEA` |
-| **AI Integration & Automation** | `LLM API Integration` `Model Context Protocol (MCP)` `Spring AI` `Automated Data Summarization Pipelines` |
+| **Agentic AI & LLM Systems** | `LangGraph` `LangChain (create_agent)` `Model Context Protocol (MCP)` `AWS Bedrock (Converse API)` `RAG` `Pydantic v2` |
+| **Lakehouse, OLAP & Vectors** | `DuckDB (httpfs)` `Apache Parquet (ZSTD)` `Amazon S3 Data Lake` `PostgreSQL (RDS Proxy)` `FAISS` `TF-IDF` |
+| **AI Safety & Cost Optimization** | `SQL AST Parsing (extract_statements)` `Artifact Whitelisting` `Bedrock Prompt Caching (cachePoint - 90% cost drop)` |
+| **Enterprise Backend** | `Java (8/11/17)` `Python` `Spring Boot` `Spring Cloud` `Spring Data JPA` `Spring Batch` `Resilience4j` `HikariCP` |
+| **Cloud & DevOps** | `AWS Lambda` `Amazon S3` `SQS / SNS` `Amazon CloudWatch` `Docker` `CI/CD Pipelines` `Git` |
 
 ---
 
-## ⚙️ Engineering Philosophy & Core Pillars
+## ⚙️ Engineering Highlights & Core Architecture
 
 <div align="center">
 
-| 🚀 High-Throughput & Async | 🗄️ Database & Performance | 🛡️ Reliability & Security | 🤖 Modern AI / MCP Tooling |
+| 🤖 Deterministic Agentic AI | ⚡ Zero-Copy Lakehouse Analytics | 🛡️ AST Guardrails & Optimization | 🏛️ Resilient Microservices |
 | :--- | :--- | :--- | :--- |
-| Converting blocking endpoints to non-blocking `@Async` and batch processing pipelines for ultra-low latency. | Designing normalized schemas, tuning indexes & joins, and executing zero-downtime schema migrations (Flyway). | Comprehensive test-driven coverage with JUnit 5 & Mockito; robust Spring Security role-based access. | Embedding Model Context Protocol (MCP) servers & LLM endpoints into enterprise microservice workflows. |
+| LangGraph workflows with recursion limits, self-healing nudge prompts, and MultiServerMCPClient routing. | DuckDB over daily-partitioned S3 Parquet snapshots via predicate pushdowns and ETag cache invalidation. | Enforcing non-SELECT / multi-statement payload blocking via DuckDB AST parser; Bedrock prompt caching. | Low-latency Spring Boot APIs protected by Resilience4j circuit breakers, rate-limiting, and RDS Proxy. |
 
 </div>
 
 ---
 
-## 💼 Professional Experience & Key Impact
+## 💼 Professional Experience & Production Impact
 
-### 🏢 **Tata Consultancy Services (TCS)** — *Associate / System Engineer*
+### 🏢 **Tata Consultancy Services (TCS)** — *Senior AI & Backend Engineer*
 *May 2025 – Present | Kolkata, India*
-- **High-Throughput Microservices:** Engineered high-performance RESTful APIs and microservices using **Java & Spring Boot** for operational dashboards, delivering real-time telemetry monitoring for smart devices.
-- **Asynchronous ETL Ingestion:** Architected asynchronous data ingestion workflows utilizing **Spring `@Async`**, multithreading, and **Spring Batch**, slashing API response latency and eliminating client bottlenecks.
-- **SQL & DB Performance Tuning:** Optimized complex SQL joins, indexing strategies, and authoring zero-downtime database migrations (**Flyway/Liquibase**) with incremental refresh mechanisms to prevent full-table locking.
-- **Dynamic Rules Engine:** Built a DB-driven configurable threshold alerting engine, enabling business operators to dynamically modify monitoring sensitivity without system redeployments.
-- **AI & Workflow Automation:** Embedded LLM-powered summarization endpoints and **Model Context Protocol (MCP)** tool bindings into microservices with secure API-key authentication middleware.
+- **Enterprise Agent Engine:** Architected an enterprise agentic query engine using **LangGraph**, enforcing a deterministic Final Answer Pydantic schema and a 15-step recursion cap to eliminate runaway execution loops in production.
+- **Dynamic Multi-Tool Execution (MCP):** Built natural-language routing using `MultiServerMCPClient` to orchestrate tool calls across PostgreSQL, enterprise knowledge bases, and cloud storage.
+- **Self-Healing AI Execution:** Implemented nudge prompts for missing structured outputs, fallback text extraction, and exponential backoff (3 attempts) for Bedrock transport failures, dropping unhandled failures to near-zero.
+- **Zero-Copy OLAP Architecture:** Developed an embedded OLAP pipeline with **DuckDB (`httpfs`)** querying daily-partitioned Amazon S3 Parquet snapshots using predicate pushdowns and ETag cache invalidation, resolving OOM issues and achieving sub-100ms latencies.
+- **AST-Level SQL Safety & Token Optimization:** Engineered SQL security guardrails using DuckDB's AST parser (`extract_statements`) to intercept unauthorized and multi-statement queries before execution; configured AWS Bedrock `cachePoint` boundaries to reduce prompt token costs by 90%.
 
 ---
 
-### 🏢 **Accenture** — *Application Developer / Java Developer*
-*October 2021 – May 2025 | India*
-- **Enterprise Backend Engineering:** Developed and maintained mission-critical Java backend components and RESTful microservices using **Spring Boot**, **Spring Security**, and **JPA/Hibernate**.
-- **API Security & Governance:** Enforced robust role-based authentication and authorization protocols across internal enterprise endpoints to ensure strict compliance.
-- **Persistence & Transaction Management:** Structured normalized relational schemas, fine-tuned complex queries, and managed transactional integrity across high-volume data layers.
+### 🏢 **Accenture** — *Backend Engineer*
+*October 2021 – May 2025 | Kolkata, India*
+- **High-Throughput Microservices:** Designed and maintained mission-critical Java 11 / Spring Boot microservices across banking, healthcare, and energy domains, boosting API response times by up to 90%.
+- **Resilience & Fault Tolerance:** Applied distributed resilience patterns with **Resilience4j** (circuit breakers, retries, rate limiters) to guarantee system reliability under heavy enterprise traffic loads.
+- **Relational Tuning & Schema Design:** Analyzed query execution plans and tuned indexes for PostgreSQL and SQL Server layers.
+- **Batch Processing & Containerization:** Developed scheduled data processing pipelines and automated notification workflows with **Spring Batch**; containerized services using **Docker** within automated CI/CD pipelines.
 
 ---
 
-## 🚀 Featured Architecture & Projects
+## 🚀 Featured Architecture & Systems
 
-### ⚡ **Network Operations & Field Monitoring System**
-*Enterprise Telemetry & Operations Processing Platform*
-- **Tech Stack:** `Java` • `Spring Boot` • `Spring Batch` • `PostgreSQL` • `Flyway` • `JUnit 5` • `Mockito` • `LLM APIs`
-- **Impact & Highlights:**
-  - Designed resilient real-time ingestion pipelines processing telemetry data from smart meters and relay units.
-  - Converted synchronous blocking operations into non-blocking `@Async` event pipelines, dramatically improving system throughput.
-  - Integrated AI-driven automated incident log summarization, streamlining root-cause diagnosis for field engineers.
+### ⚡ **Enterprise Agentic Lakehouse & Query Engine**
+*Production Multi-Tool AI Agent & Zero-Copy Analytics Pipeline*
+- **Tech Stack:** `Python` • `LangGraph` • `Model Context Protocol (MCP)` • `AWS Bedrock` • `DuckDB` • `Parquet` • `S3` • `PostgreSQL`
+- **Key Deliverables:**
+  - Dynamic tool routing across heterogeneous storage layers using MCP client architecture.
+  - Sub-100ms analytical query response directly over S3 data lakes without cluster overhead.
+  - Zero-exception self-healing loops and strict AST payload validation for secure, deterministic execution.
 
 ---
 
@@ -103,6 +103,6 @@ Results-driven **Java Backend Developer & System Engineer** with ~5 years of ent
 
 <br/>
 
-*Open to senior backend engineering opportunities, high-throughput microservices architecture, and technical collaborations.*
+*Open to discussions on Production Agentic AI, MCP Architecture, Zero-Copy OLAP, and Enterprise Distributed Systems.*
 
 </div>
